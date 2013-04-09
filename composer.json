@@ -1,0 +1,9 @@
+{
+    "name"        : "peytz/debug",
+    "description" : "Varius utilities that aid in debugging.",
+    "license"     : "MIT",
+
+    "autoload" : {
+        "psr-0" : { "" : "src" }
+    }
+}
